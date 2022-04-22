@@ -1,0 +1,9 @@
+.place__adress_img {
+    width: 100%;
+}
+
+@media screen and (max-width: 425px) {
+    .place__adress_img {
+        margin-bottom: 32px;
+    }
+}

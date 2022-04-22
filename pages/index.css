@@ -1,0 +1,54 @@
+@import url(../fonts/Inter/Inter\ Web/inter.css);
+
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__languages/header__languages.css);
+@import url(../blocks/header/__language/header__language.css);
+@import url(../blocks/header/__language/_ru/header__language_ru.css);
+
+@import url(../blocks/link/link.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__image/_train/lead__image_train.css);
+@import url(../blocks/lead/__image/_road/lead__image_road.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__lists/intro__lists.css);
+@import url(../blocks/intro/__list-bold/intro__list-bold);
+
+@import url(../blocks/list/list.css);
+
+@import url(../blocks/lists/lists.css);
+
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__image/gallery__image.css);
+
+@import url(../blocks/places/places.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__adress/place__adress.css);
+@import url(../blocks/place/__adress/_URL/place__adress_URL.css);
+@import url(../blocks/place/__adress/_link/place_adress_link.css);
+@import url(../blocks/place/__adress/_img/place__adress_img.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+
+@import url(../blocks/byebye/byebye.css);
+@import url(../blocks/byebye/__title/byebye__title.css);
+@import url(../blocks/byebye/__subtitle/byebye__subtitle.css);
+@import url(../blocks/byebye/__overlay/byebye__overlay\ .css);
+
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__link/nav__link.css);
+@import url(../blocks/nav/__copyright/nav__copyright.css);

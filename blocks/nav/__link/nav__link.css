@@ -1,0 +1,26 @@
+.nav__link {
+    font-family: 'Inter', Arial;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-decoration: none;
+    margin-right: 18px;
+}
+
+@media screen and (max-width: 550px) {
+    .nav__link {
+        margin-right: 5px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .nav__link {
+        margin: 0 0 32px 0;
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .nav__link:nth-of-type(5) {
+        margin-bottom: 48px;
+    }
+}

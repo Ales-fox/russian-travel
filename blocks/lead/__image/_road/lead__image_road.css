@@ -1,0 +1,8 @@
+.lead__image_road {
+    width: 97%;
+    margin: 8% auto 0 auto;
+    height: min-content;
+    grid-row: 1/2;
+    grid-column: 1/2;
+    z-index: 1;
+}

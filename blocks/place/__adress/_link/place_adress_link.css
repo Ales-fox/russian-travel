@@ -1,0 +1,7 @@
+.place__adress_link {
+    font-family: 'Inter', Arial;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+}
