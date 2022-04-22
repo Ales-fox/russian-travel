@@ -1,5 +1,3 @@
-@import url(../fonts/Inter/Inter\ Web/inter.css);
-
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/page/page.css);
@@ -52,3 +50,8 @@
 @import url(../blocks/nav/__list/nav__list.css);
 @import url(../blocks/nav/__link/nav__link.css);
 @import url(../blocks/nav/__copyright/nav__copyright.css);
+
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter\ Hinted\ for\ Windows/.woff2);
+}
