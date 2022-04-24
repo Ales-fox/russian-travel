@@ -1,0 +1,21 @@
+.footer__copyright {
+    flex-grow: 1;
+    text-align: end;
+    font-family: 'Inter', Arial;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+@media screen and (max-width:550px) {
+    .footer__copyright {
+        font-size: 10px;
+        line-height: 16px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .footer__copyright {
+        text-align: start;
+    }
+}
