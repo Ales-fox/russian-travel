@@ -1,7 +1,4 @@
 .lead__image {
     width: 100%;
-    margin: auto;
-    display: grid;
-    margin-bottom: 8px;
-    grid-template-rows: 1fr;
+    margin: 0 auto 8px auto;
 }

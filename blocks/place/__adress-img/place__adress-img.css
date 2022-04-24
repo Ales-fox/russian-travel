@@ -3,7 +3,7 @@
 }
 
 @media screen and (max-width: 425px) {
-    .place__adress_img {
+    .place__adress-img {
         margin-bottom: 32px;
     }
 }

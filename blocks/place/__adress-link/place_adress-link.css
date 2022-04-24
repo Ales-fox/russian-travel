@@ -5,3 +5,7 @@
     line-height: 22px;
     text-decoration: underline;
 }
+
+.place__adress-link:hover {
+    opacity: 0.8;
+}

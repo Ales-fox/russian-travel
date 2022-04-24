@@ -1,20 +1,27 @@
 .byebye__title {
-    width: 100%;
-    margin: 0;
+    width: 7.5em;
+    margin: 0 auto 32px auto;
     font-family: 'Inter', Arial;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     text-align: center;
-    grid-column: 2/3;
-    grid-row: 2/3;
-    z-index: 1;
+    position: relative;
+    z-index: 2;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 600px) {
     .byebye__title {
-        width: 90%;
+        font-size: 60px;
+        line-height: 64px;
+        margin-bottom: 16px;
+    }
+}
+
+@media screen and (max-width: 545px) {
+    .byebye__title {
         font-size: 32px;
         line-height: 35px;
+        margin-bottom: 16px;
     }
 }

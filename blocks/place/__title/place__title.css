@@ -1,4 +1,6 @@
 .place__title {
+    width: 90%;
+    height: min-content;
     margin: 0;
     font-family: "Inter", Arial;
     font-weight: 900;

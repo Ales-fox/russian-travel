@@ -12,6 +12,12 @@
     }
 }
 
+@media screen and (max-width: 550px) {
+    .place {
+        gap: 38px 10px;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .place {
         display: flex;

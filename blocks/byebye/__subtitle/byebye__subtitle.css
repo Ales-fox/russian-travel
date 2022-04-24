@@ -1,34 +1,19 @@
 .byebye__subtitle {
-    width: 65%;
-    margin: 32px auto 0 auto;
+    position: relative;
+    width: 20em;
+    margin: 0 auto 0 auto;
     font-family: 'Inter', Arial;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    z-index: 1;
-    align-items: flex-end;
-    grid-column: 2/3;
-    grid-row: 3/4;
+    z-index: 2;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 545px) {
     .byebye__subtitle {
-        width: 70%;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .byebye__subtitle {
-        width: 65%;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .byebye__subtitle {
-        margin-top: 16px;
         font-size: 14px;
         line-height: 16px;
-        width: 100%;
+        width: 14em;
     }
 }
