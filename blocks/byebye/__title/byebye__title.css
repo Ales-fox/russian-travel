@@ -12,8 +12,6 @@
 
 @media screen and (max-width: 600px) {
     .byebye__title {
-        font-size: 60px;
-        line-height: 64px;
         margin-bottom: 16px;
     }
 }
@@ -22,6 +20,5 @@
     .byebye__title {
         font-size: 32px;
         line-height: 35px;
-        margin-bottom: 16px;
     }
 }

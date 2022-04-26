@@ -1,5 +1,5 @@
 .intro {
-    width: 690px;
+    max-width: 690px;
     height: fit-content;
     margin: 0 auto 92px 148px;
 }
@@ -12,14 +12,14 @@
 
 @media screen and (max-width: 768px) {
     .intro {
-        width: calc(100% - 24px - 24px);
+        max-width: calc(100% - 24px - 24px);
         margin: 0 auto 88px auto;
     }
 }
 
 @media screen and (max-width: 425px) {
     .intro {
-        width: calc(100% - 16px - 16px);
+        max-width: calc(100% - 16px - 16px);
         margin: 0 auto 64px auto;
     }
 }
