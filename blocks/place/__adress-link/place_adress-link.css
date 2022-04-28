@@ -1,11 +1,7 @@
 .place__adress-link {
-    font-family: 'Inter', Arial;
+    font-family: 'Inter', Arial, sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-decoration: underline;
-}
-
-.place__adress-link:hover {
-    opacity: 0.8;
 }
